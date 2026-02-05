@@ -23,10 +23,12 @@
 
 ## 📚 Table of Contents
 
-- [What Is This Mod?](#-what-is-this-mod)
-- [Player Experience: With vs Without the Mod](#-player-experience-with-vs-without-the-mod)
-- [Showcase: Community Maps](#-showcase-community-maps)
-- [For Map Creators: What This Mod Enables](#-for-map-creators-what-this-mod-enables)
+- Players
+   - [What Is This Mod?](#-what-is-this-mod)
+   - [Player Experience: With vs Without the Mod](#-player-experience-with-vs-without-the-mod)
+   - [Showcase: Community Maps](#-showcase-community-maps)
+- Map Creators 
+   - [For Map Creators: What This Mod Enables](#-for-map-creators-what-this-mod-enables)
 - [Key Features](#-key-features)
 - [Installation](#-installation)
   - [Windows ✅](#windows-installation)
@@ -240,7 +242,13 @@ Community testing feedback is welcome.
 This README contains a **summary** of the full guide.
 
 ### Full Illustrated Tutorial
+
+This is a ptreon of main developer. He created this mod and makes a lot of maps 
+
 👉 https://www.patreon.com/posts/how-to-pshek-mod-100095597
+
+👉 https://www.patreon.com/derhonk83   
+
 
 Includes:
 - Editor UI locations
@@ -272,8 +280,8 @@ Includes:
 **Q: Will my map break without the mod installed?**  
 A: No — it will load normally, but objects will be static.
 
-**Q: Do all players need the mod installed?**  
-A: Yes, to see animations and movement.
+**Q: Multiplayer - Do all players need the mod installed?**  
+A: No, but it's recommended to see animations and movement. 
 
 **Q: Is this an official Liftoff mod?**  
 A: No — this is a community-made modification.
