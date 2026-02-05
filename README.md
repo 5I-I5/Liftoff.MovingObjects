@@ -8,7 +8,7 @@
 > Adds animated, physics-driven, moving objects to Liftoff maps.
 
 
-> [!info]  
+> [!note]  
 > The documentation is still in progress. I haven't recorded the videos for the showcase yet, so only text is available at this time.
 ---
 
