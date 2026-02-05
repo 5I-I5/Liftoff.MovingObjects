@@ -7,11 +7,6 @@
 > **Same map. Completely different experience.**  
 > Adds animated, physics-driven, moving objects to Liftoff maps.
 
-
-> [!note]  
-> The documentation is still in progress. I haven't recorded the videos for the showcase yet, so only text is available at this time.
----
-
 ## ⚠️ Important Disclaimer
 
 > [!WARNING]
@@ -194,15 +189,16 @@ Use Blueprint map objects on any map.
 
 ### ⚠️  macOS Installation [not tested]
 
-> [!NOTE]
-> ⚠️ The developer **has not tested this mod on macOS**.  
-> Windows is confirmed working. macOS users proceed at their own risk.
+> [!warning]  
+> The developer **has not tested this mod on macOS**.  
+> Windows is confirmed working.  
+>  ⚠️ macOS users proceed at their own risk.
 
 Look details of installation here:  
 👉 https://www.patreon.com/posts/how-to-pshek-mod-100095597
 
 
-> [!info] 
+> [!NOTE]  
 > Develeoper's notes about macos
 > https://docs.bepinex.dev/articles/user_guide/installation/index.html?tabs=tabid-nix 
 > 
@@ -214,7 +210,7 @@ Look details of installation here:
 >
 > BepInEx documentation and API listing
 >
-> yes, extract mod -> extract mac bepinex (with overwrite) -> run
+> extract mod -> extract mac bepinex (with overwrite) -> run
 > 
 > **if this work i'll include in next release all-in-one package for mac**
 
@@ -243,7 +239,7 @@ This README contains a **summary** of the full guide.
 
 ### Full Illustrated Tutorial
 
-This is a ptreon of main developer. He created this mod and makes a lot of maps 
+This is a ptreon of famous map developer. He didn't create this mod, but makes a lot of cool maps 
 
 👉 https://www.patreon.com/posts/how-to-pshek-mod-100095597
 
