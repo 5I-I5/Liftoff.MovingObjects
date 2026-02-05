@@ -199,16 +199,15 @@ Look details of installation here:
 
 
 > [!NOTE]  
-> Develeoper's notes about macos
-> https://docs.bepinex.dev/articles/user_guide/installation/index.html?tabs=tabid-nix 
+> Develeoper's notes about macos👇  
 > 
 > I don't have macos, I suggest using this tutorial (macos tabs).
 > If bepinex starts, the mod will start too direct link to bepinex macos:
 > https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_unix_5.4.22.0.zip
 >
 > Installing BepInEx | BepInEx Docs
->
 > BepInEx documentation and API listing
+> https://docs.bepinex.dev/articles/user_guide/installation/index.html?tabs=tabid-nix 
 >
 > extract mod -> extract mac bepinex (with overwrite) -> run
 > 
